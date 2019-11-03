@@ -6,7 +6,7 @@
 	<title>zlobnij zver</title>
 </head>
 <body>
-	<a href=" http://www.ttu.ee" <h1>taltech</h1> </a>
+	<a href="https://www.ttu.ee" <h1>taltech</h1> </a>
 	<h1>RANDOM TEXT WITH MISTACES 
 	Viisakust õpitakse kodus, mitte koolis
 
